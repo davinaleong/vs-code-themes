@@ -1,2 +1,3 @@
-# vs-code-themes
-Storage of favourite VS Code Themes
+# VS Code Themes
+
+Storage of installed VS Code Themes
